@@ -1,5 +1,5 @@
 # Digital Logic Design
-_Using Verilog-Vivado to compile the programs. Board ...._
+_Using Verilog-Vivado to compile the programs. Board EG01 Xilinx FPGA Artix-7_
 
 __Lab 1__: 
 * Half-Adder
